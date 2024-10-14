@@ -1,0 +1,7 @@
+boto3
+pillow
+aiokafka
+fastapi[all]
+python-multipart
+ultralytics
+opencv-python
